@@ -1,0 +1,63 @@
+body {
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+canvas {
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+select {
+    float: left;
+    margin: 0 5px 0 0;
+}
+
+#title {
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+#clear {
+    width: 100%;
+    height: 75px;
+    margin: auto;
+}
+
+#color {
+    width: 100px;
+}
+
+#colorText {
+    margin: 0 5px 0 5px;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+}
+
+.text-container {
+    justify-content: end;
+}
+
+.button-container {
+    justify-content: end;
+}
+
+.button {
+    width: 100%;
+}
+
+.label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding: 0, 5px, 0, 5px;
+    margin-right: 10px;
+}

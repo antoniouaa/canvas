@@ -1,0 +1,15 @@
+# Venvs
+venv/
+env/
+
+# Logs
+*.log
+
+# Images
+*.png
+*.jpg
+*.svg
+
+
+#### Python files... for now
+*.py
